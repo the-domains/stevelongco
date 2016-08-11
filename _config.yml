@@ -6,9 +6,9 @@ color:
   saturation: 0.24794752220623195
   rhythmicContrast: 0.6225202966015786
   brandColors:
-    - '#9A9BA0'
-    - '#455757'
-    - '#08080A'
-    - '#FEFEFE'
-    - '#D0C4B7'
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
 name: stevelong.co
