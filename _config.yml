@@ -1,0 +1,14 @@
+layout_spectrum: 0.894479607231915
+typography_spectrum: 0.4845729705411941
+color:
+  brandStrength: 0.8287269659340382
+  lightness: 0.9565863905008882
+  saturation: 0.24794752220623195
+  rhythmicContrast: 0.6225202966015786
+  brandColors:
+    - '#9A9BA0'
+    - '#455757'
+    - '#08080A'
+    - '#FEFEFE'
+    - '#D0C4B7'
+name: stevelong.co
